@@ -1,597 +1,867 @@
 #EXTM3U
-#EXTINF:-1,A&E HD
-http://srv.maxptv.net:8080/marco26/marco26/236
-#EXTINF:-1,A&E SD
-http://srv.maxptv.net:8080/marco26/marco26/235
-#EXTINF:-1,Amc HD
-http://srv.maxptv.net:8080/marco26/marco26/512
-#EXTINF:-1,AMC SD
-http://srv.maxptv.net:8080/marco26/marco26/233
-#EXTINF:-1,Animal Planet HD
-http://srv.maxptv.net:8080/marco26/marco26/232
-#EXTINF:-1,Animal Planet SD
-http://srv.maxptv.net:8080/marco26/marco26/231
-#EXTINF:-1,AXN HD
-http://srv.maxptv.net:8080/marco26/marco26/535
-#EXTINF:-1,AXN SD
-http://srv.maxptv.net:8080/marco26/marco26/227
-#EXTINF:-1,BabyTV HD
-http://srv.maxptv.net:8080/marco26/marco26/226
-#EXTINF:-1,BabyTV SD
-http://srv.maxptv.net:8080/marco26/marco26/225
-#EXTINF:-1,Band Campinas HD
-http://srv.maxptv.net:8080/marco26/marco26/242
-#EXTINF:-1,Band Campinas SD
-http://srv.maxptv.net:8080/marco26/marco26/241
-#EXTINF:-1,Canal Band News HD
-http://srv.maxptv.net:8080/marco26/marco26/224
-#EXTINF:-1,Canal Band News SD
-http://srv.maxptv.net:8080/marco26/marco26/223
-#EXTINF:-1,Band SP HD
-http://srv.maxptv.net:8080/marco26/marco26/130
-#EXTINF:-1,Band SP SD
-http://srv.maxptv.net:8080/marco26/marco26/129
-#EXTINF:-1,Band Sports HD
-http://srv.maxptv.net:8080/marco26/marco26/221
-#EXTINF:-1,Band Sports SD
-http://srv.maxptv.net:8080/marco26/marco26/220
-#EXTINF:-1,BIZ HD
-http://srv.maxptv.net:8080/marco26/marco26/219
-#EXTINF:-1,BIZ SD
-http://srv.maxptv.net:8080/marco26/marco26/218
-#EXTINF:-1,Boomerang HD
-http://srv.maxptv.net:8080/marco26/marco26/217
-#EXTINF:-1,Boomerang SD
-http://srv.maxptv.net:8080/marco26/marco26/216
-#EXTINF:-1,Canal Canção Nova HD
-http://srv.maxptv.net:8080/marco26/marco26/215
-#EXTINF:-1,Canal Canal Canção SD
-http://srv.maxptv.net:8080/marco26/marco26/214
-#EXTINF:-1,Canal Futura HD
-http://srv.maxptv.net:8080/marco26/marco26/211
-#EXTINF:-1,Canal Futura SD
-http://srv.maxptv.net:8080/marco26/marco26/210
-#EXTINF:-1,Canal Curta! HD
-http://srv.maxptv.net:8080/marco26/marco26/213
-#EXTINF:-1,Canal Curta! SD
-http://srv.maxptv.net:8080/marco26/marco26/212
-#EXTINF:-1,Canal HGTV HD
-http://srv.maxptv.net:8080/marco26/marco26/193
-#EXTINF:-1,Canal HGTV SD
-http://srv.maxptv.net:8080/marco26/marco26/192
-#EXTINF:-1,Canal OFF HD
-http://srv.maxptv.net:8080/marco26/marco26/209
-#EXTINF:-1,Canal OFF SD
-http://srv.maxptv.net:8080/marco26/marco26/208
-#EXTINF:-1,Canal Woohoo HD
-http://srv.maxptv.net:8080/marco26/marco26/207
-#EXTINF:-1,Canal Woohoo SD
-http://srv.maxptv.net:8080/marco26/marco26/206
-#EXTINF:-1,Cartoon Network HD
-http://srv.maxptv.net:8080/marco26/marco26/524
-#EXTINF:-1,Cartoon Network SD
-http://srv.maxptv.net:8080/marco26/marco26/204
-#EXTINF:-1,Comedy Central HD
-http://srv.maxptv.net:8080/marco26/marco26/199
-#EXTINF:-1,Comedy Central SD
-http://srv.maxptv.net:8080/marco26/marco26/198
-#EXTINF:-1,Combate HD
-http://srv.maxptv.net:8080/marco26/marco26/201
-#EXTINF:-1,Combate SD
-http://srv.maxptv.net:8080/marco26/marco26/200
-#EXTINF:-1,Cinemax HD
-http://srv.maxptv.net:8080/marco26/marco26/203
-#EXTINF:-1,Cinemax SD
-http://srv.maxptv.net:8080/marco26/marco26/202
-#EXTINF:-1,Black Kamen Rider 24H
-http://srv.maxptv.net:8080/marco26/marco26/537
-#EXTINF:-1,Canal CSI 24H
-http://srv.maxptv.net:8080/marco26/marco26/538
-#EXTINF:-1,Cine Action 24H Ultra HD
-http://srv.maxptv.net:8080/marco26/marco26/548
-#EXTINF:-1,Cine Aventura 24H Ultra HD
-http://srv.maxptv.net:8080/marco26/marco26/549
-#EXTINF:-1,Cine Drama 24H Ultra HD
-http://srv.maxptv.net:8080/marco26/marco26/550
-#EXTINF:-1,Cine Family 24H
-http://srv.maxptv.net:8080/marco26/marco26/551
-#EXTINF:-1,Cine Faroeste 24H Ultra HD
-http://srv.maxptv.net:8080/marco26/marco26/1478
-#EXTINF:-1,Cine Fiction 24H Ultra HD
-http://srv.maxptv.net:8080/marco26/marco26/536
-#EXTINF:-1,Cine Fun 24H Ultra HD
-http://srv.maxptv.net:8080/marco26/marco26/552
-#EXTINF:-1,Cine Guerra 24H Ultra HD
-http://srv.maxptv.net:8080/marco26/marco26/1477
-#EXTINF:-1,Cine Horror 24H Ultra HD
-http://srv.maxptv.net:8080/marco26/marco26/553
-#EXTINF:-1,CINE KIDS 24H ULTRA HD
-http://srv.maxptv.net:8080/marco26/marco26/554
-#EXTINF:-1,CINE Nacionais 24H
-http://srv.maxptv.net:8080/marco26/marco26/555
-#EXTINF:-1,Como eu Conheci a Sua Mae  24H
-http://srv.maxptv.net:8080/marco26/marco26/567
-#EXTINF:-1,Cultura HD
-http://srv.maxptv.net:8080/marco26/marco26/197
-#EXTINF:-1,Cultura SD
-http://srv.maxptv.net:8080/marco26/marco26/196
-#EXTINF:-1,Cybercop 24H
-http://srv.maxptv.net:8080/marco26/marco26/1479
-#EXTINF:-1,Discovery Channel HD
-http://srv.maxptv.net:8080/marco26/marco26/195
-#EXTINF:-1,Discovery Channel SD
-http://srv.maxptv.net:8080/marco26/marco26/194
-#EXTINF:-1,Discovery Home & Health HD
-http://srv.maxptv.net:8080/marco26/marco26/191
-#EXTINF:-1,Discovery Home & Health SD
-http://srv.maxptv.net:8080/marco26/marco26/190
-#EXTINF:-1,Discovery Kids HD
-http://srv.maxptv.net:8080/marco26/marco26/189
-#EXTINF:-1,Discovery Kids SD
-http://srv.maxptv.net:8080/marco26/marco26/188
-#EXTINF:-1,Discovery Science HD
-http://srv.maxptv.net:8080/marco26/marco26/187
-#EXTINF:-1,Discovery Science SD
-http://srv.maxptv.net:8080/marco26/marco26/186
-#EXTINF:-1,Discovery Theater HD
-http://srv.maxptv.net:8080/marco26/marco26/185
-#EXTINF:-1,Discovery Theater SD
-http://srv.maxptv.net:8080/marco26/marco26/184
-#EXTINF:-1,Discovery Turbo HD
-http://srv.maxptv.net:8080/marco26/marco26/183
-#EXTINF:-1,Discovery Turbo SD
-http://srv.maxptv.net:8080/marco26/marco26/182
-#EXTINF:-1,Discovery World HD
-http://srv.maxptv.net:8080/marco26/marco26/181
-#EXTINF:-1,Discovery World SD
-http://srv.maxptv.net:8080/marco26/marco26/180
-#EXTINF:-1,Disney Channel  HD
-http://srv.maxptv.net:8080/marco26/marco26/179
-#EXTINF:-1,Disney Channel SD
-http://srv.maxptv.net:8080/marco26/marco26/178
-#EXTINF:-1,Disney Junior HD
-http://srv.maxptv.net:8080/marco26/marco26/177
-#EXTINF:-1,Disney Junior SD
-http://srv.maxptv.net:8080/marco26/marco26/176
-#EXTINF:-1,Disney XD HD
-http://srv.maxptv.net:8080/marco26/marco26/175
-#EXTINF:-1,Disney XD SD
-http://srv.maxptv.net:8080/marco26/marco26/174
-#EXTINF:-1,DR. House 24HR
-http://srv.maxptv.net:8080/marco26/marco26/568
-#EXTINF:-1,Dragoes  24H
-http://srv.maxptv.net:8080/marco26/marco26/1480
-#EXTINF:-1,E! HD
-http://srv.maxptv.net:8080/marco26/marco26/516
-#EXTINF:-1,E! SD
-http://srv.maxptv.net:8080/marco26/marco26/172
-#EXTINF:-1,EPTV Campinas HD
-http://srv.maxptv.net:8080/marco26/marco26/238
-#EXTINF:-1,EPTV Campinas HD 2
-http://srv.maxptv.net:8080/marco26/marco26/246
-#EXTINF:-1,EPTV Campinas SD
-http://srv.maxptv.net:8080/marco26/marco26/237
-#EXTINF:-1,Espn  2 HD
-http://srv.maxptv.net:8080/marco26/marco26/171
-#EXTINF:-1,Espn  2 SD
-http://srv.maxptv.net:8080/marco26/marco26/170
-#EXTINF:-1,Espn Brasil HD
-http://srv.maxptv.net:8080/marco26/marco26/169
-#EXTINF:-1,Espn Brasil SD
-http://srv.maxptv.net:8080/marco26/marco26/168
-#EXTINF:-1,Espn Extra  SD
-http://srv.maxptv.net:8080/marco26/marco26/164
-#EXTINF:-1,Espn Extra HD
-http://srv.maxptv.net:8080/marco26/marco26/165
-#EXTINF:-1,Espn HD
-http://srv.maxptv.net:8080/marco26/marco26/167
-#EXTINF:-1,Espn SD
-http://srv.maxptv.net:8080/marco26/marco26/166
-#EXTINF:-1,Eu a Patroa e as Crianças
-http://srv.maxptv.net:8080/marco26/marco26/321
-#EXTINF:-1,Familia da Pesada 24H
-http://srv.maxptv.net:8080/marco26/marco26/1481
-#EXTINF:-1,Familia Dinossauro  24H
-http://srv.maxptv.net:8080/marco26/marco26/569
-#EXTINF:-1,Film&Arts HD
-http://srv.maxptv.net:8080/marco26/marco26/163
-#EXTINF:-1,Film&Arts SD
-http://srv.maxptv.net:8080/marco26/marco26/162
-#EXTINF:-1,FISH TV HD
-http://srv.maxptv.net:8080/marco26/marco26/525
-#EXTINF:-1,Fish TV SD
-http://srv.maxptv.net:8080/marco26/marco26/161
-#EXTINF:-1,Food Network HD
-http://srv.maxptv.net:8080/marco26/marco26/158
-#EXTINF:-1,Food Network SD
-http://srv.maxptv.net:8080/marco26/marco26/159
-#EXTINF:-1,FOX HD
-http://srv.maxptv.net:8080/marco26/marco26/157
-#EXTINF:-1,FOX Life HD
-http://srv.maxptv.net:8080/marco26/marco26/156
-#EXTINF:-1,FOX Life SD
-http://srv.maxptv.net:8080/marco26/marco26/155
-#EXTINF:-1,Fox Premium 2 HD
-http://srv.maxptv.net:8080/marco26/marco26/526
-#EXTINF:-1,Fox Premium 2 SD
-http://srv.maxptv.net:8080/marco26/marco26/527
-#EXTINF:-1,Fox Premium HD
-http://srv.maxptv.net:8080/marco26/marco26/528
-#EXTINF:-1,Fox Premium SD
-http://srv.maxptv.net:8080/marco26/marco26/151
-#EXTINF:-1,FOX SD
-http://srv.maxptv.net:8080/marco26/marco26/150
-#EXTINF:-1,Fox Sports 2 HD
-http://srv.maxptv.net:8080/marco26/marco26/529
-#EXTINF:-1,Fox Sports 2 SD
-http://srv.maxptv.net:8080/marco26/marco26/148
-#EXTINF:-1,Fox Sports HD
-http://srv.maxptv.net:8080/marco26/marco26/147
-#EXTINF:-1,Fox Sports SD
-http://srv.maxptv.net:8080/marco26/marco26/146
-#EXTINF:-1,FX HD
-http://srv.maxptv.net:8080/marco26/marco26/145
-#EXTINF:-1,FX SD
-http://srv.maxptv.net:8080/marco26/marco26/144
-#EXTINF:-1,Galinha Pintadinha 24H
-http://srv.maxptv.net:8080/marco26/marco26/1476
-#EXTINF:-1,Globo Ribeirão HD
-http://srv.maxptv.net:8080/marco26/marco26/985
-#EXTINF:-1,Globo Ribeirão SD
-http://srv.maxptv.net:8080/marco26/marco26/986
-#EXTINF:-1,Globo SP HD
-http://srv.maxptv.net:8080/marco26/marco26/72
-#EXTINF:-1,Globo SP SD
-http://srv.maxptv.net:8080/marco26/marco26/71
-#EXTINF:-1,GloboNews HD
-http://srv.maxptv.net:8080/marco26/marco26/143
-#EXTINF:-1,GloboNews SD
-http://srv.maxptv.net:8080/marco26/marco26/142
-#EXTINF:-1,Gloob HD
-http://srv.maxptv.net:8080/marco26/marco26/530
-#EXTINF:-1,Gloob SD
-http://srv.maxptv.net:8080/marco26/marco26/140
-#EXTINF:-1,GNT HD
-http://srv.maxptv.net:8080/marco26/marco26/139
-#EXTINF:-1,GNT SD
-http://srv.maxptv.net:8080/marco26/marco26/138
-#EXTINF:-1,H2 HD
-http://srv.maxptv.net:8080/marco26/marco26/137
-#EXTINF:-1,H2 SD
-http://srv.maxptv.net:8080/marco26/marco26/523
-#EXTINF:-1,HBO 2 HD
-http://srv.maxptv.net:8080/marco26/marco26/135
-#EXTINF:-1,HBO 2 SD
-http://srv.maxptv.net:8080/marco26/marco26/134
-#EXTINF:-1,HBO Family HD
-http://srv.maxptv.net:8080/marco26/marco26/133
-#EXTINF:-1,HBO Family SD
-http://srv.maxptv.net:8080/marco26/marco26/132
-#EXTINF:-1,HBO HD
-http://srv.maxptv.net:8080/marco26/marco26/131
-#EXTINF:-1,HBO Plus HD
-http://srv.maxptv.net:8080/marco26/marco26/128
-#EXTINF:-1,HBO Plus SD
-http://srv.maxptv.net:8080/marco26/marco26/127
-#EXTINF:-1,HBO SD
-http://srv.maxptv.net:8080/marco26/marco26/126
-#EXTINF:-1,HBO Signature HD
-http://srv.maxptv.net:8080/marco26/marco26/531
-#EXTINF:-1,HBO Signature SD
-http://srv.maxptv.net:8080/marco26/marco26/124
-#EXTINF:-1,History Channel HD
-http://srv.maxptv.net:8080/marco26/marco26/532
-#EXTINF:-1,History Channel SD
-http://srv.maxptv.net:8080/marco26/marco26/122
-#EXTINF:-1,Homem-Aranha 24H
-http://srv.maxptv.net:8080/marco26/marco26/566
-#EXTINF:-1,ID HD
-http://srv.maxptv.net:8080/marco26/marco26/121
-#EXTINF:-1,ID SD
-http://srv.maxptv.net:8080/marco26/marco26/120
-#EXTINF:-1,Jaspion 24H
-http://srv.maxptv.net:8080/marco26/marco26/570
-#EXTINF:-1,Jiraya  O Incrivel Ninja 24H
-http://srv.maxptv.net:8080/marco26/marco26/1475
-#EXTINF:-1,Larva 24H
-http://srv.maxptv.net:8080/marco26/marco26/1474
-#EXTINF:-1,Lifetime HD
-http://srv.maxptv.net:8080/marco26/marco26/522
-#EXTINF:-1,Lifetime SD
-http://srv.maxptv.net:8080/marco26/marco26/118
-#EXTINF:-1,Lion Man 24H
-http://srv.maxptv.net:8080/marco26/marco26/1473
-#EXTINF:-1,Looney Tunnes 24H
-http://srv.maxptv.net:8080/marco26/marco26/565
-#EXTINF:-1,Mais Globosat HD
-http://srv.maxptv.net:8080/marco26/marco26/117
-#EXTINF:-1,Mais Globosat SD
-http://srv.maxptv.net:8080/marco26/marco26/116
-#EXTINF:-1,MARVEL & DC 24H
-http://srv.maxptv.net:8080/marco26/marco26/545
-#EXTINF:-1,HBO Mundi HD
-http://srv.maxptv.net:8080/marco26/marco26/521
-#EXTINF:-1,HBO Xtreme HD
-http://srv.maxptv.net:8080/marco26/marco26/520
-#EXTINF:-1,HBO Xtreme SD
-http://srv.maxptv.net:8080/marco26/marco26/113
-#EXTINF:-1,HBO Mundi SD
-http://srv.maxptv.net:8080/marco26/marco26/112
-#EXTINF:-1,HBO Pop HD
-http://srv.maxptv.net:8080/marco26/marco26/111
-#EXTINF:-1,HBO Pop SD
-http://srv.maxptv.net:8080/marco26/marco26/110
-#EXTINF:-1,Megapix HD
-http://srv.maxptv.net:8080/marco26/marco26/109
-#EXTINF:-1,Megapix SD
-http://srv.maxptv.net:8080/marco26/marco26/108
-#EXTINF:-1,MR. Bean 24H
-http://srv.maxptv.net:8080/marco26/marco26/546
-#EXTINF:-1,MTV HD
-http://srv.maxptv.net:8080/marco26/marco26/519
-#EXTINF:-1,MTV SD
-http://srv.maxptv.net:8080/marco26/marco26/106
-#EXTINF:-1,MULTISHOW HD
-http://srv.maxptv.net:8080/marco26/marco26/105
-#EXTINF:-1,MULTISHOW SD
-http://srv.maxptv.net:8080/marco26/marco26/104
-#EXTINF:-1,Naruto 24H
-http://srv.maxptv.net:8080/marco26/marco26/564
-#EXTINF:-1,Nat Geo Kids HD
-http://srv.maxptv.net:8080/marco26/marco26/518
-#EXTINF:-1,Nat Geo Kids SD
-http://srv.maxptv.net:8080/marco26/marco26/102
-#EXTINF:-1,Nat Geo Wild HD
-http://srv.maxptv.net:8080/marco26/marco26/101
-#EXTINF:-1,Nat Geo Wild SD
-http://srv.maxptv.net:8080/marco26/marco26/100
-#EXTINF:-1,National Geographic HD
-http://srv.maxptv.net:8080/marco26/marco26/99
-#EXTINF:-1,National Geographic SD
-http://srv.maxptv.net:8080/marco26/marco26/98
-#EXTINF:-1,NHK HD
-http://srv.maxptv.net:8080/marco26/marco26/97
-#EXTINF:-1,NHK SD
-http://srv.maxptv.net:8080/marco26/marco26/96
-#EXTINF:-1,Nick Jr HD
-http://srv.maxptv.net:8080/marco26/marco26/95
-#EXTINF:-1,Nick Jr SD
-http://srv.maxptv.net:8080/marco26/marco26/94
-#EXTINF:-1,Nickelodeon HD
-http://srv.maxptv.net:8080/marco26/marco26/93
-#EXTINF:-1,Nickelodeon SD
-http://srv.maxptv.net:8080/marco26/marco26/92
-#EXTINF:-1,Os Simpsons 24H
-http://srv.maxptv.net:8080/marco26/marco26/563
-#EXTINF:-1,Os Vingadores 24H
-http://srv.maxptv.net:8080/marco26/marco26/1482
-#EXTINF:-1,Paramount Channel HD
-http://srv.maxptv.net:8080/marco26/marco26/91
-#EXTINF:-1,Paramount Channel SD
-http://srv.maxptv.net:8080/marco26/marco26/90
-#EXTINF:-1,Peppa Pig 24H
-http://srv.maxptv.net:8080/marco26/marco26/562
-#EXTINF:-1,Playboy HD
-http://srv.maxptv.net:8080/marco26/marco26/88
-#EXTINF:-1,Playboy SD
-http://srv.maxptv.net:8080/marco26/marco26/87
-#EXTINF:-1,POCOYO 24H
-http://srv.maxptv.net:8080/marco26/marco26/561
-#EXTINF:-1,Pokemon 24H
-http://srv.maxptv.net:8080/marco26/marco26/560
-#EXTINF:-1,Premiere 1 HD
-http://srv.maxptv.net:8080/marco26/marco26/86
-#EXTINF:-1,Premiere 1 HD Alternativo
-http://srv.maxptv.net:8080/marco26/marco26/1461
-#EXTINF:-1,Premiere 1 HD2
-http://srv.maxptv.net:8080/marco26/marco26/247
-#EXTINF:-1,Premiere 1 SD
-http://srv.maxptv.net:8080/marco26/marco26/85
-#EXTINF:-1,Premiere 2 HD
-http://srv.maxptv.net:8080/marco26/marco26/84
-#EXTINF:-1,Premiere 2 HD Alternativo
-http://srv.maxptv.net:8080/marco26/marco26/1462
-#EXTINF:-1,Premiere 2 SD
-http://srv.maxptv.net:8080/marco26/marco26/83
-#EXTINF:-1,Premiere 3 HD
-http://srv.maxptv.net:8080/marco26/marco26/82
-#EXTINF:-1,Premiere 3 HD Alternativo
-http://srv.maxptv.net:8080/marco26/marco26/1463
-#EXTINF:-1,Premiere 3 SD
-http://srv.maxptv.net:8080/marco26/marco26/81
-#EXTINF:-1,Premiere 4 HD
-http://srv.maxptv.net:8080/marco26/marco26/80
-#EXTINF:-1,Premiere 4 HD Alternativo
-http://srv.maxptv.net:8080/marco26/marco26/1464
-#EXTINF:-1,Premiere 4 SD
-http://srv.maxptv.net:8080/marco26/marco26/79
-#EXTINF:-1,Premiere 5 HD
-http://srv.maxptv.net:8080/marco26/marco26/78
-#EXTINF:-1,Premiere 5 HD Alternativo
-http://srv.maxptv.net:8080/marco26/marco26/1465
-#EXTINF:-1,Premiere 5 SD
-http://srv.maxptv.net:8080/marco26/marco26/77
-#EXTINF:-1,Premiere 6 HD
-http://srv.maxptv.net:8080/marco26/marco26/76
-#EXTINF:-1,Premiere 6 HD Alternativo
-http://srv.maxptv.net:8080/marco26/marco26/1466
-#EXTINF:-1,Premiere 6 SD
-http://srv.maxptv.net:8080/marco26/marco26/75
-#EXTINF:-1,Premiere 7 HD
-http://srv.maxptv.net:8080/marco26/marco26/74
-#EXTINF:-1,Premiere 7 HD Alternativo
-http://srv.maxptv.net:8080/marco26/marco26/1467
-#EXTINF:-1,Premiere 7 SD
-http://srv.maxptv.net:8080/marco26/marco26/73
-#EXTINF:-1,Record HD
-http://srv.maxptv.net:8080/marco26/marco26/240
-#EXTINF:-1,Record HD 2
-http://srv.maxptv.net:8080/marco26/marco26/68
-#EXTINF:-1,Record News HD
-http://srv.maxptv.net:8080/marco26/marco26/67
-#EXTINF:-1,Record News SD
-http://srv.maxptv.net:8080/marco26/marco26/66
-#EXTINF:-1,Record SD
-http://srv.maxptv.net:8080/marco26/marco26/239
-#EXTINF:-1,Record SP HD
-http://srv.maxptv.net:8080/marco26/marco26/65
-#EXTINF:-1,Record SP SD
-http://srv.maxptv.net:8080/marco26/marco26/64
-#EXTINF:-1,Rede Vida HD
-http://srv.maxptv.net:8080/marco26/marco26/62
-#EXTINF:-1,Rede Vida SD
-http://srv.maxptv.net:8080/marco26/marco26/63
-#EXTINF:-1,RedeTV HD
-http://srv.maxptv.net:8080/marco26/marco26/61
-#EXTINF:-1,RedeTV SD
-http://srv.maxptv.net:8080/marco26/marco26/60
-#EXTINF:-1,Rá -Tim Bum- HD
-http://srv.maxptv.net:8080/marco26/marco26/70
-#EXTINF:-1,Rá- Tim- Bum SD
-http://srv.maxptv.net:8080/marco26/marco26/69
-#EXTINF:-1,Sbt HD
-http://srv.maxptv.net:8080/marco26/marco26/59
-#EXTINF:-1,Sbt SD
-http://srv.maxptv.net:8080/marco26/marco26/58
-#EXTINF:-1,Sextreme HD
-http://srv.maxptv.net:8080/marco26/marco26/57
-#EXTINF:-1,Sextreme SD
-http://srv.maxptv.net:8080/marco26/marco26/56
-#EXTINF:-1,Sexy Hot HD
-http://srv.maxptv.net:8080/marco26/marco26/55
-#EXTINF:-1,Sexy Hot SD
-http://srv.maxptv.net:8080/marco26/marco26/54
-#EXTINF:-1,Show da Luna 24H
-http://srv.maxptv.net:8080/marco26/marco26/559
-#EXTINF:-1,Sony HD
-http://srv.maxptv.net:8080/marco26/marco26/53
-#EXTINF:-1,Sony SD
-http://srv.maxptv.net:8080/marco26/marco26/52
-#EXTINF:-1,South Park 24H
-http://srv.maxptv.net:8080/marco26/marco26/544
-#EXTINF:-1,Space HD
-http://srv.maxptv.net:8080/marco26/marco26/51
-#EXTINF:-1,Space SD
-http://srv.maxptv.net:8080/marco26/marco26/50
-#EXTINF:-1,SporTV HD
-http://srv.maxptv.net:8080/marco26/marco26/49
-#EXTINF:-1,SporTV SD
-http://srv.maxptv.net:8080/marco26/marco26/48
-#EXTINF:-1,SporTV2 HD
-http://srv.maxptv.net:8080/marco26/marco26/47
-#EXTINF:-1,SporTV2 SD
-http://srv.maxptv.net:8080/marco26/marco26/46
-#EXTINF:-1,SporTV3 HD
-http://srv.maxptv.net:8080/marco26/marco26/45
-#EXTINF:-1,SporTV3 SD
-http://srv.maxptv.net:8080/marco26/marco26/44
-#EXTINF:-1,Studio Universal HD
-http://srv.maxptv.net:8080/marco26/marco26/43
-#EXTINF:-1,Studio Universal SD
-http://srv.maxptv.net:8080/marco26/marco26/42
-#EXTINF:-1,Syfy HD
-http://srv.maxptv.net:8080/marco26/marco26/41
-#EXTINF:-1,Syfy SD
-http://srv.maxptv.net:8080/marco26/marco26/40
-#EXTINF:-1,Tbs HD
-http://srv.maxptv.net:8080/marco26/marco26/39
-#EXTINF:-1,Tbs SD
-http://srv.maxptv.net:8080/marco26/marco26/38
-#EXTINF:-1,TCM HD
-http://srv.maxptv.net:8080/marco26/marco26/37
-#EXTINF:-1,TCM SD
-http://srv.maxptv.net:8080/marco26/marco26/36
-#EXTINF:-1,Telecine Action HD
-http://srv.maxptv.net:8080/marco26/marco26/35
-#EXTINF:-1,Telecine Action SD
-http://srv.maxptv.net:8080/marco26/marco26/34
-#EXTINF:-1,Telecine Cult HD
-http://srv.maxptv.net:8080/marco26/marco26/33
-#EXTINF:-1,Telecine Cult SD
-http://srv.maxptv.net:8080/marco26/marco26/32
-#EXTINF:-1,Telecine Fun HD
-http://srv.maxptv.net:8080/marco26/marco26/31
-#EXTINF:-1,Telecine Fun SD
-http://srv.maxptv.net:8080/marco26/marco26/30
-#EXTINF:-1,Telecine Pipoca HD
-http://srv.maxptv.net:8080/marco26/marco26/29
-#EXTINF:-1,Telecine Pipoca SD
-http://srv.maxptv.net:8080/marco26/marco26/28
-#EXTINF:-1,Telecine Premium HD
-http://srv.maxptv.net:8080/marco26/marco26/27
-#EXTINF:-1,Telecine Premium SD
-http://srv.maxptv.net:8080/marco26/marco26/26
-#EXTINF:-1,Telecine Touch HD
-http://srv.maxptv.net:8080/marco26/marco26/25
-#EXTINF:-1,Telecine Touch SD
-http://srv.maxptv.net:8080/marco26/marco26/24
-#EXTINF:-1,The Backyardigans 24H
-http://srv.maxptv.net:8080/marco26/marco26/558
-#EXTINF:-1,The Big Bang Theory 24H
-http://srv.maxptv.net:8080/marco26/marco26/543
-#EXTINF:-1,TLC HD
-http://srv.maxptv.net:8080/marco26/marco26/23
-#EXTINF:-1,TLC SD
-http://srv.maxptv.net:8080/marco26/marco26/22
-#EXTINF:-1,TNT HD
-http://srv.maxptv.net:8080/marco26/marco26/21
-#EXTINF:-1,TNT SD
-http://srv.maxptv.net:8080/marco26/marco26/20
-#EXTINF:-1,TNT Series HD
-http://srv.maxptv.net:8080/marco26/marco26/517
-#EXTINF:-1,TNT Series SD
-http://srv.maxptv.net:8080/marco26/marco26/18
-#EXTINF:-1,Todo Mundo Odeia o Cris
-http://srv.maxptv.net:8080/marco26/marco26/317
-#EXTINF:-1,Tom & Jerry  24H
-http://srv.maxptv.net:8080/marco26/marco26/557
-#EXTINF:-1,Tooncast HD
-http://srv.maxptv.net:8080/marco26/marco26/17
-#EXTINF:-1,Tooncast SD
-http://srv.maxptv.net:8080/marco26/marco26/16
-#EXTINF:-1,TV Aparecida HD
-http://srv.maxptv.net:8080/marco26/marco26/15
-#EXTINF:-1,TV Aparecida SD
-http://srv.maxptv.net:8080/marco26/marco26/14
-#EXTINF:-1,TV Rio Preto
-http://srv.maxptv.net:8080/marco26/marco26/13
-#EXTINF:-1,Two And a Half Man 24H
-http://srv.maxptv.net:8080/marco26/marco26/542
-#EXTINF:-1,Um Maluco No Pedaco  24H
-http://srv.maxptv.net:8080/marco26/marco26/541
-#EXTINF:-1,Universal Channel HD
-http://srv.maxptv.net:8080/marco26/marco26/12
-#EXTINF:-1,Universal Channel SD
-http://srv.maxptv.net:8080/marco26/marco26/11
-#EXTINF:-1,Venus HD
-http://srv.maxptv.net:8080/marco26/marco26/10
-#EXTINF:-1,Venus SD
-http://srv.maxptv.net:8080/marco26/marco26/9
-#EXTINF:-1,VH1 HD
-http://srv.maxptv.net:8080/marco26/marco26/8
-#EXTINF:-1,VH1 SD
-http://srv.maxptv.net:8080/marco26/marco26/7
-#EXTINF:-1,Viva HD
-http://srv.maxptv.net:8080/marco26/marco26/6
-#EXTINF:-1,Viva SD
-http://srv.maxptv.net:8080/marco26/marco26/5
-#EXTINF:-1,Warner Bros HD
-http://srv.maxptv.net:8080/marco26/marco26/4
-#EXTINF:-1,Warner Bros SD
-http://srv.maxptv.net:8080/marco26/marco26/3
-#EXTINF:-1,X-Men Evolution 24H
-http://srv.maxptv.net:8080/marco26/marco26/1483
-#EXTINF:-1,Zoomoo HD
-http://srv.maxptv.net:8080/marco26/marco26/2
-#EXTINF:-1,Zoomoo SD
-http://srv.maxptv.net:8080/marco26/marco26/1
-#EXTINF:-1,Globo Floripa HD
-http://srv.maxptv.net:8080/marco26/marco26/6234
-#EXTINF:-1,Globo Floripa SD
-http://srv.maxptv.net:8080/marco26/marco26/6235
-#EXTINF:-1,teste
-http://srv.maxptv.net:8080/marco26/marco26/8789
-#EXTINF:-1,Cnn Brasil HD
-http://srv.maxptv.net:8080/marco26/marco26/8890
-#EXTINF:-1,Cnn Brasil SD
-http://srv.maxptv.net:8080/marco26/marco26/8891
+#EXTINF:-1,GLOBO NEWS [FHD]
+http://cdn.poptv.vip:80/daniel/daniel/7503
+#EXTINF:-1,GLOBO RPC PARANAENSE [FHD]
+http://cdn.poptv.vip:80/daniel/daniel/9327
+#EXTINF:-1,A&E [FHD]
+http://cdn.poptv.vip:80/daniel/daniel/9326
+#EXTINF:-1,ANIMAL PLANET [FHD]
+http://cdn.poptv.vip:80/daniel/daniel/9223
+#EXTINF:-1,ARTE 1 [FHD]
+http://cdn.poptv.vip:80/daniel/daniel/9329
+#EXTINF:-1,AXN [FHD]
+http://cdn.poptv.vip:80/daniel/daniel/9341
+#EXTINF:-1,BABY TV [FHD]
+http://cdn.poptv.vip:80/daniel/daniel/9224
+#EXTINF:-1,BAND NEWS [FHD]
+http://cdn.poptv.vip:80/daniel/daniel/9284
+#EXTINF:-1,BAND SPORTS [FHD]
+http://cdn.poptv.vip:80/daniel/daniel/9283
+#EXTINF:-1,BIS [FHD]
+http://cdn.poptv.vip:80/daniel/daniel/9337
+#EXTINF:-1,BOOMERANG [FHD]
+http://cdn.poptv.vip:80/daniel/daniel/9225
+#EXTINF:-1,CANAL BRASIL [FHD]
+http://cdn.poptv.vip:80/daniel/daniel/9318
+#EXTINF:-1,CARTOON NETWORK  [FHD]
+http://cdn.poptv.vip:80/daniel/daniel/9226
+#EXTINF:-1,CINEMAX [FHD]
+http://cdn.poptv.vip:80/daniel/daniel/9289
+#EXTINF:-1,COMBATE  [FHD]
+http://cdn.poptv.vip:80/daniel/daniel/9227
+#EXTINF:-1,COMEDY CENTRAL [FHD]
+http://cdn.poptv.vip:80/daniel/daniel/9228
+#EXTINF:-1,CULTURA [FHD]
+http://cdn.poptv.vip:80/daniel/daniel/9302
+#EXTINF:-1,CURTA! [FHD]
+http://cdn.poptv.vip:80/daniel/daniel/9321
+#EXTINF:-1,DISCOVERY CHANNEL [FHD]
+http://cdn.poptv.vip:80/daniel/daniel/9229
+#EXTINF:-1,DISCOVERY H&H [FHD]
+http://cdn.poptv.vip:80/daniel/daniel/9230
+#EXTINF:-1,DISCOVERY ID [FHD]
+http://cdn.poptv.vip:80/daniel/daniel/9231
+#EXTINF:-1,DISCOVERY KIDS [FHD]
+http://cdn.poptv.vip:80/daniel/daniel/9232
+#EXTINF:-1,DISCOVERY SCIENCE [FHD]
+http://cdn.poptv.vip:80/daniel/daniel/9233
+#EXTINF:-1,DISCOVERY THEATER [FHD]
+http://cdn.poptv.vip:80/daniel/daniel/9234
+#EXTINF:-1,DISCOVERY TURBO [FHD]
+http://cdn.poptv.vip:80/daniel/daniel/9235
+#EXTINF:-1,DISCOVERY WORLD [FHD]
+http://cdn.poptv.vip:80/daniel/daniel/9236
+#EXTINF:-1,DISNEY CHANNEL [FHD]
+http://cdn.poptv.vip:80/daniel/daniel/9237
+#EXTINF:-1,DISNEY JR [FHD]
+http://cdn.poptv.vip:80/daniel/daniel/9238
+#EXTINF:-1,DISNEY XD [FHD]
+http://cdn.poptv.vip:80/daniel/daniel/9239
+#EXTINF:-1,E!  [FHD]
+http://cdn.poptv.vip:80/daniel/daniel/9285
+#EXTINF:-1,ESPN 2 [FHD]
+http://cdn.poptv.vip:80/daniel/daniel/9241
+#EXTINF:-1,ESPN BRASIL [FHD]
+http://cdn.poptv.vip:80/daniel/daniel/9242
+#EXTINF:-1,ESPN EXTRA [FHD]
+http://cdn.poptv.vip:80/daniel/daniel/9312
+#EXTINF:-1,ESPN [FHD]
+http://cdn.poptv.vip:80/daniel/daniel/9240
+#EXTINF:-1,FASHION TV [FHD]
+http://cdn.poptv.vip:80/daniel/daniel/9297
+#EXTINF:-1,FISH TV [FHD]
+http://cdn.poptv.vip:80/daniel/daniel/9304
+#EXTINF:-1,FOOD NETWORK [FHD]
+http://cdn.poptv.vip:80/daniel/daniel/9243
+#EXTINF:-1,FOX LIFE [FHD]
+http://cdn.poptv.vip:80/daniel/daniel/9324
+#EXTINF:-1,FOX PREMIUM 1 [FHD]
+http://cdn.poptv.vip:80/daniel/daniel/9245
+#EXTINF:-1,FOX PREMIUM 2 [FHD]
+http://cdn.poptv.vip:80/daniel/daniel/9246
+#EXTINF:-1,FOX SPORTS 2 [FHD]
+http://cdn.poptv.vip:80/daniel/daniel/9248
+#EXTINF:-1,FOX SPORTS [FHD]
+http://cdn.poptv.vip:80/daniel/daniel/9247
+#EXTINF:-1,FOX [FHD]
+http://cdn.poptv.vip:80/daniel/daniel/9244
+#EXTINF:-1,FX [FHD]
+http://cdn.poptv.vip:80/daniel/daniel/9323
+#EXTINF:-1,GLOOB [FHD]
+http://cdn.poptv.vip:80/daniel/daniel/9249
+#EXTINF:-1,GNT [FHD]
+http://cdn.poptv.vip:80/daniel/daniel/9250
+#EXTINF:-1,H2 [FHD]
+http://cdn.poptv.vip:80/daniel/daniel/9256
+#EXTINF:-1,HBO + [FHD]
+http://cdn.poptv.vip:80/daniel/daniel/9253
+#EXTINF:-1,HBO 2 [FHD]
+http://cdn.poptv.vip:80/daniel/daniel/9252
+#EXTINF:-1,HBO FAMILY [FHD]
+http://cdn.poptv.vip:80/daniel/daniel/9319
+#EXTINF:-1,HBO MUNDI [FHD]
+http://cdn.poptv.vip:80/daniel/daniel/9287
+#EXTINF:-1,HBO POP [FHD]
+http://cdn.poptv.vip:80/daniel/daniel/9205
+#EXTINF:-1,HBO SIGNATURE [FHD]
+http://cdn.poptv.vip:80/daniel/daniel/9254
+#EXTINF:-1,HBO XTREME [FHD]
+http://cdn.poptv.vip:80/daniel/daniel/9309
+#EXTINF:-1,HBO [FHD]
+http://cdn.poptv.vip:80/daniel/daniel/9251
+#EXTINF:-1,HGTV [FHD]
+http://cdn.poptv.vip:80/daniel/daniel/9307
+#EXTINF:-1,HISTORY CHANNEL [FHD]
+http://cdn.poptv.vip:80/daniel/daniel/9255
+#EXTINF:-1,LIFETIME [FHD]
+http://cdn.poptv.vip:80/daniel/daniel/9330
+#EXTINF:-1,MAIS GLOBOSAT [FHD]
+http://cdn.poptv.vip:80/daniel/daniel/9339
+#EXTINF:-1,MEGAPIX [FHD]
+http://cdn.poptv.vip:80/daniel/daniel/9257
+#EXTINF:-1,MTV [FHD]
+http://cdn.poptv.vip:80/daniel/daniel/9338
+#EXTINF:-1,MULTISHOW [FHD]
+http://cdn.poptv.vip:80/daniel/daniel/9258
+#EXTINF:-1,MUSIC BOX BRAZIL [FHD]
+http://cdn.poptv.vip:80/daniel/daniel/9313
+#EXTINF:-1,NAT GEO KIDS [FHD]
+http://cdn.poptv.vip:80/daniel/daniel/9288
+#EXTINF:-1,NAT GEO WILD [FHD]
+http://cdn.poptv.vip:80/daniel/daniel/9322
+#EXTINF:-1,NATIONAL GEOGRAPHIC [FHD]
+http://cdn.poptv.vip:80/daniel/daniel/9346
+#EXTINF:-1,NICK JR [FHD]
+http://cdn.poptv.vip:80/daniel/daniel/9260
+#EXTINF:-1,NICKELODEON [FHD]
+http://cdn.poptv.vip:80/daniel/daniel/9335
+#EXTINF:-1,OFF [FHD]
+http://cdn.poptv.vip:80/daniel/daniel/9340
+#EXTINF:-1,PARAMOUNT [FHD]
+http://cdn.poptv.vip:80/daniel/daniel/9345
+#EXTINF:-1,PREMIERE 2 [FHD]
+http://cdn.poptv.vip:80/daniel/daniel/9262
+#EXTINF:-1,PREMIERE 3 [FHD]
+http://cdn.poptv.vip:80/daniel/daniel/9263
+#EXTINF:-1,PREMIERE 4 [FHD]
+http://cdn.poptv.vip:80/daniel/daniel/9264
+#EXTINF:-1,PREMIERE 5 [FHD]
+http://cdn.poptv.vip:80/daniel/daniel/9265
+#EXTINF:-1,PREMIERE 6 [HD]
+http://cdn.poptv.vip:80/daniel/daniel/9305
+#EXTINF:-1,PREMIERE CLUBES [FHD]
+http://cdn.poptv.vip:80/daniel/daniel/9261
+#EXTINF:-1,PRIME BOX BRASIL [FHD]
+http://cdn.poptv.vip:80/daniel/daniel/9314
+#EXTINF:-1,CANAL SONY [FHD]
+http://cdn.poptv.vip:80/daniel/daniel/9343
+#EXTINF:-1,SPACE [FHD]
+http://cdn.poptv.vip:80/daniel/daniel/9268
+#EXTINF:-1,SPORTV 2 [FHD]
+http://cdn.poptv.vip:80/daniel/daniel/9270
+#EXTINF:-1,SPORTV 3 [FHD]
+http://cdn.poptv.vip:80/daniel/daniel/9271
+#EXTINF:-1,SPORTV [FHD]
+http://cdn.poptv.vip:80/daniel/daniel/9269
+#EXTINF:-1,STUDIO UNIVERSAL [FHD]
+http://cdn.poptv.vip:80/daniel/daniel/9347
+#EXTINF:-1,SYFY [FHD]
+http://cdn.poptv.vip:80/daniel/daniel/9331
+#EXTINF:-1,TBS [FHD]
+http://cdn.poptv.vip:80/daniel/daniel/9294
+#EXTINF:-1,TELECINE ACTION [FHD]
+http://cdn.poptv.vip:80/daniel/daniel/9272
+#EXTINF:-1,TELECINE CULT [FHD]
+http://cdn.poptv.vip:80/daniel/daniel/9273
+#EXTINF:-1,TELECINE FUN [FHD]
+http://cdn.poptv.vip:80/daniel/daniel/9315
+#EXTINF:-1,TELECINE PIPOCA [FHD]
+http://cdn.poptv.vip:80/daniel/daniel/9274
+#EXTINF:-1,TELECINE PREMIUM [FHD]
+http://cdn.poptv.vip:80/daniel/daniel/9275
+#EXTINF:-1,TELECINE TOUCH [FHD]
+http://cdn.poptv.vip:80/daniel/daniel/9276
+#EXTINF:-1,TLC [FHD]
+http://cdn.poptv.vip:80/daniel/daniel/9344
+#EXTINF:-1,TNT SÉRIES [FHD]
+http://cdn.poptv.vip:80/daniel/daniel/9295
+#EXTINF:-1,TNT [FHD]
+http://cdn.poptv.vip:80/daniel/daniel/9277
+#EXTINF:-1,TOONCAST [FHD]
+http://cdn.poptv.vip:80/daniel/daniel/9278
+#EXTINF:-1,TRAVEL BOX BRAZIL [FHD]
+http://cdn.poptv.vip:80/daniel/daniel/9298
+#EXTINF:-1,TV BRASIL [FHD]
+http://cdn.poptv.vip:80/daniel/daniel/9291
+#EXTINF:-1,TV PAI ETERNO [FHD]
+http://cdn.poptv.vip:80/daniel/daniel/9222
+#EXTINF:-1,TV RA-TIM-BUM [FHD]
+http://cdn.poptv.vip:80/daniel/daniel/9279
+#EXTINF:-1,UNIVERSAL TV [FHD]
+http://cdn.poptv.vip:80/daniel/daniel/9280
+#EXTINF:-1,VIVA [FHD]
+http://cdn.poptv.vip:80/daniel/daniel/9281
+#EXTINF:-1,WARNER CHANNEL [FHD]
+http://cdn.poptv.vip:80/daniel/daniel/9282
+#EXTINF:-1,WOOHOO [FHD]
+http://cdn.poptv.vip:80/daniel/daniel/9308
+#EXTINF:-1,CNN BRASIL [FHD]
+http://cdn.poptv.vip:80/daniel/daniel/9498
+#EXTINF:-1,TERRA VIVA [FHD]
+http://cdn.poptv.vip:80/daniel/daniel/9518
+#EXTINF:-1,CANAL DO BOI [FHD]
+http://cdn.poptv.vip:80/daniel/daniel/9519
+#EXTINF:-1,GLOBO TV VERDES MARES [FHD]
+http://cdn.poptv.vip:80/daniel/daniel/9506
+#EXTINF:-1,AMC [FHD]
+http://cdn.poptv.vip:80/daniel/daniel/9521
+#EXTINF:-1,A&E [HD]
+http://cdn.poptv.vip:80/daniel/daniel/7547
+#EXTINF:-1,AGRO CANAL [FHD]
+http://cdn.poptv.vip:80/daniel/daniel/8914
+#EXTINF:-1,AMC [HD]
+http://cdn.poptv.vip:80/daniel/daniel/9363
+#EXTINF:-1,ANIMAL PLANET [HD]
+http://cdn.poptv.vip:80/daniel/daniel/7542
+#EXTINF:-1,ARTE 1 [HD]
+http://cdn.poptv.vip:80/daniel/daniel/7564
+#EXTINF:-1,AXN [HD]
+http://cdn.poptv.vip:80/daniel/daniel/7494
+#EXTINF:-1,BABY TV [HD]
+http://cdn.poptv.vip:80/daniel/daniel/7569
+#EXTINF:-1,BAND NEWS [HD]
+http://cdn.poptv.vip:80/daniel/daniel/7484
+#EXTINF:-1,BAND PARÁ [HD]
+http://cdn.poptv.vip:80/daniel/daniel/8960
+#EXTINF:-1,BAND SPORTS [HD]
+http://cdn.poptv.vip:80/daniel/daniel/7488
+#EXTINF:-1,BIS [HD]
+http://cdn.poptv.vip:80/daniel/daniel/7529
+#EXTINF:-1,BOOMERANG [HD]
+http://cdn.poptv.vip:80/daniel/daniel/7520
+#EXTINF:-1,CANAL BRASIL [HD]
+http://cdn.poptv.vip:80/daniel/daniel/7582
+#EXTINF:-1,CANAL SONY [HD]
+http://cdn.poptv.vip:80/daniel/daniel/7534
+#EXTINF:-1,CARTOON NETWORK [HD]
+http://cdn.poptv.vip:80/daniel/daniel/7497
+#EXTINF:-1,CHEF TV [HD]
+http://cdn.poptv.vip:80/daniel/daniel/7566
+#EXTINF:-1,CINEMAX [HD]
+http://cdn.poptv.vip:80/daniel/daniel/7517
+#EXTINF:-1,CNN BRASIL [HD]
+http://cdn.poptv.vip:80/daniel/daniel/9499
+#EXTINF:-1,CNN ESPANHOL [HD]
+http://cdn.poptv.vip:80/daniel/daniel/7578
+#EXTINF:-1,CNN INTERNACIONAL [HD]
+http://cdn.poptv.vip:80/daniel/daniel/7584
+#EXTINF:-1,COMBATE [HD]
+http://cdn.poptv.vip:80/daniel/daniel/7489
+#EXTINF:-1,COMEDY CENTRAL [HD]
+http://cdn.poptv.vip:80/daniel/daniel/7545
+#EXTINF:-1,CULTURA [HD]
+http://cdn.poptv.vip:80/daniel/daniel/8894
+#EXTINF:-1,CURTA! [HD]
+http://cdn.poptv.vip:80/daniel/daniel/7561
+#EXTINF:-1,DISCOVERY CHANNEL [HD]
+http://cdn.poptv.vip:80/daniel/daniel/7493
+#EXTINF:-1,DISCOVERY H&H [HD]
+http://cdn.poptv.vip:80/daniel/daniel/7556
+#EXTINF:-1,DISCOVERY ID [HD]
+http://cdn.poptv.vip:80/daniel/daniel/7548
+#EXTINF:-1,DISCOVERY KIDS [HD]
+http://cdn.poptv.vip:80/daniel/daniel/7506
+#EXTINF:-1,DISCOVERY SCIENCE [HD]
+http://cdn.poptv.vip:80/daniel/daniel/7527
+#EXTINF:-1,DISCOVERY THEATER [HD]
+http://cdn.poptv.vip:80/daniel/daniel/7513
+#EXTINF:-1,DISCOVERY TURBO [HD]
+http://cdn.poptv.vip:80/daniel/daniel/7477
+#EXTINF:-1,DISCOVERY WORLD [HD]
+http://cdn.poptv.vip:80/daniel/daniel/7521
+#EXTINF:-1,DISNEY CHANNEL [HD]
+http://cdn.poptv.vip:80/daniel/daniel/7508
+#EXTINF:-1,DISNEY JR [HD]
+http://cdn.poptv.vip:80/daniel/daniel/7504
+#EXTINF:-1,DISNEY XD [HD]
+http://cdn.poptv.vip:80/daniel/daniel/7575
+#EXTINF:-1,E! [HD]
+http://cdn.poptv.vip:80/daniel/daniel/7524
+#EXTINF:-1,ESPN 2 [HD]
+http://cdn.poptv.vip:80/daniel/daniel/7526
+#EXTINF:-1,ESPN BRASIL [HD]
+http://cdn.poptv.vip:80/daniel/daniel/7541
+#EXTINF:-1,ESPN EXTRA [HD]
+http://cdn.poptv.vip:80/daniel/daniel/7540
+#EXTINF:-1,ESPN [HD]
+http://cdn.poptv.vip:80/daniel/daniel/7523
+#EXTINF:-1,FISH TV [HD]
+http://cdn.poptv.vip:80/daniel/daniel/7570
+#EXTINF:-1,FOOD NETWORK [HD]
+http://cdn.poptv.vip:80/daniel/daniel/7532
+#EXTINF:-1,FOX LIFE [HD]
+http://cdn.poptv.vip:80/daniel/daniel/7549
+#EXTINF:-1,FOX NEWS [HD]
+http://cdn.poptv.vip:80/daniel/daniel/7502
+#EXTINF:-1,FOX PREMIUM 1 [HD]
+http://cdn.poptv.vip:80/daniel/daniel/7581
+#EXTINF:-1,FOX PREMIUM 2 [HD]
+http://cdn.poptv.vip:80/daniel/daniel/7583
+#EXTINF:-1,FOX SPORTS 2 [HD]
+http://cdn.poptv.vip:80/daniel/daniel/7495
+#EXTINF:-1,FOX SPORTS [HD]
+http://cdn.poptv.vip:80/daniel/daniel/7492
+#EXTINF:-1,FOX [HD]
+http://cdn.poptv.vip:80/daniel/daniel/7486
+#EXTINF:-1,FUTURA [HD]
+http://cdn.poptv.vip:80/daniel/daniel/9371
+#EXTINF:-1,FX [HD]
+http://cdn.poptv.vip:80/daniel/daniel/7522
+#EXTINF:-1,GLOBO MACAPÁ [HD]
+http://cdn.poptv.vip:80/daniel/daniel/8883
+#EXTINF:-1,GLOBO NACIONAL [HD]
+http://cdn.poptv.vip:80/daniel/daniel/7595
+#EXTINF:-1,GLOBO NEWS [HD]
+http://cdn.poptv.vip:80/daniel/daniel/8835
+#EXTINF:-1,GLOBO NORDESTE [HD]
+http://cdn.poptv.vip:80/daniel/daniel/4719
+#EXTINF:-1,GLOBO NSC FLORIANÓPOLIS [HD]
+http://cdn.poptv.vip:80/daniel/daniel/8875
+#EXTINF:-1,GLOBO PORTO VELHO [HD]
+http://cdn.poptv.vip:80/daniel/daniel/8882
+#EXTINF:-1,GLOBO RBS TV PORTO ALEGRE [HD]
+http://cdn.poptv.vip:80/daniel/daniel/8876
+#EXTINF:-1,GLOBO RPC CURITIBA [HD]
+http://cdn.poptv.vip:80/daniel/daniel/9208
+#EXTINF:-1,GLOBO RPC PARANAENSE [HD]
+http://cdn.poptv.vip:80/daniel/daniel/7588
+#EXTINF:-1,GLOBO TV ANHANGUERA [HD]
+http://cdn.poptv.vip:80/daniel/daniel/7351
+#EXTINF:-1,GLOBO TV BAHIA [HD]
+http://cdn.poptv.vip:80/daniel/daniel/7594
+#EXTINF:-1,GLOBO TV BRASÍLIA [HD]
+http://cdn.poptv.vip:80/daniel/daniel/8843
+#EXTINF:-1,GLOBO TV CENTRO AMÉRICA [HD]
+http://cdn.poptv.vip:80/daniel/daniel/7603
+#EXTINF:-1,GLOBO TV LIBERAL BELÉM [HD]
+http://cdn.poptv.vip:80/daniel/daniel/7586
+#EXTINF:-1,GLOBO TV MINAS [HD]
+http://cdn.poptv.vip:80/daniel/daniel/7592
+#EXTINF:-1,GLOBO TV MIRANTE [HD]
+http://cdn.poptv.vip:80/daniel/daniel/7587
+#EXTINF:-1,GLOBO TV NSC FLORIANÓPOLIS [HD]
+http://cdn.poptv.vip:80/daniel/daniel/9218
+#EXTINF:-1,GLOBO TV RJ [HD]
+http://cdn.poptv.vip:80/daniel/daniel/7605
+#EXTINF:-1,GLOBO TV SP [HD]
+http://cdn.poptv.vip:80/daniel/daniel/7884
+#EXTINF:-1,GLOBO TV VERDES MARES [HD]
+http://cdn.poptv.vip:80/daniel/daniel/7591
+#EXTINF:-1,GLOOB [HD]
+http://cdn.poptv.vip:80/daniel/daniel/7515
+#EXTINF:-1,GLOOBINHO [HD]
+http://cdn.poptv.vip:80/daniel/daniel/7555
+#EXTINF:-1,GNT [HD]
+http://cdn.poptv.vip:80/daniel/daniel/7560
+#EXTINF:-1,H2 [HD]
+http://cdn.poptv.vip:80/daniel/daniel/7606
+#EXTINF:-1,HBO + [HD]
+http://cdn.poptv.vip:80/daniel/daniel/7507
+#EXTINF:-1,HBO 2 [HD]
+http://cdn.poptv.vip:80/daniel/daniel/7505
+#EXTINF:-1,HBO FAMILY [HD]
+http://cdn.poptv.vip:80/daniel/daniel/7500
+#EXTINF:-1,HBO MUNDI [HD]
+http://cdn.poptv.vip:80/daniel/daniel/7512
+#EXTINF:-1,HBO POP [HD]
+http://cdn.poptv.vip:80/daniel/daniel/7546
+#EXTINF:-1,HBO SIGNATURE [HD]
+http://cdn.poptv.vip:80/daniel/daniel/7511
+#EXTINF:-1,HBO XTREME [HD]
+http://cdn.poptv.vip:80/daniel/daniel/7551
+#EXTINF:-1,HBO [HD]
+http://cdn.poptv.vip:80/daniel/daniel/7501
+#EXTINF:-1,HGTV [HD]
+http://cdn.poptv.vip:80/daniel/daniel/7528
+#EXTINF:-1,HISTORY CHANNEL [HD]
+http://cdn.poptv.vip:80/daniel/daniel/7490
+#EXTINF:-1,I-SAT [HD]
+http://cdn.poptv.vip:80/daniel/daniel/7574
+#EXTINF:-1,LIFETIME [HD]
+http://cdn.poptv.vip:80/daniel/daniel/7536
+#EXTINF:-1,MAIS GLOBOSAT [HD]
+http://cdn.poptv.vip:80/daniel/daniel/7498
+#EXTINF:-1,MEGAPIX [HD]
+http://cdn.poptv.vip:80/daniel/daniel/7519
+#EXTINF:-1,MTV LIVE [HD]
+http://cdn.poptv.vip:80/daniel/daniel/9366
+#EXTINF:-1,MTV [HD]
+http://cdn.poptv.vip:80/daniel/daniel/7535
+#EXTINF:-1,MULTISHOW [HD]
+http://cdn.poptv.vip:80/daniel/daniel/7525
+#EXTINF:-1,MUSIC BOX BRAZIL [HD]
+http://cdn.poptv.vip:80/daniel/daniel/7572
+#EXTINF:-1,NAT GEO KIDS [HD]
+http://cdn.poptv.vip:80/daniel/daniel/7510
+#EXTINF:-1,NAT GEO WILD [HD]
+http://cdn.poptv.vip:80/daniel/daniel/7480
+#EXTINF:-1,NATIONAL GEOGRAPHIC [HD]
+http://cdn.poptv.vip:80/daniel/daniel/7531
+#EXTINF:-1,NICK JR [HD]
+http://cdn.poptv.vip:80/daniel/daniel/7509
+#EXTINF:-1,NICKELODEON [HD]
+http://cdn.poptv.vip:80/daniel/daniel/7518
+#EXTINF:-1,OFF [HD]
+http://cdn.poptv.vip:80/daniel/daniel/7516
+#EXTINF:-1,PARAMOUNT [HD]
+http://cdn.poptv.vip:80/daniel/daniel/7537
+#EXTINF:-1,PLAY KIDS [HD]
+http://cdn.poptv.vip:80/daniel/daniel/9216
+#EXTINF:-1,PLAY TV [HD]
+http://cdn.poptv.vip:80/daniel/daniel/7558
+#EXTINF:-1,PREMIERE 2 [HD]
+http://cdn.poptv.vip:80/daniel/daniel/3310
+#EXTINF:-1,PREMIERE 3 [HD]
+http://cdn.poptv.vip:80/daniel/daniel/3311
+#EXTINF:-1,PREMIERE 4 [HD]
+http://cdn.poptv.vip:80/daniel/daniel/3312
+#EXTINF:-1,PREMIERE 5 [HD]
+http://cdn.poptv.vip:80/daniel/daniel/3313
+#EXTINF:-1,PREMIERE 6 [HD]
+http://cdn.poptv.vip:80/daniel/daniel/3314
+#EXTINF:-1,PREMIERE 7 [HD]
+http://cdn.poptv.vip:80/daniel/daniel/9368
+#EXTINF:-1,PREMIERE CLUBES [HD]
+http://cdn.poptv.vip:80/daniel/daniel/3333
+#EXTINF:-1,PRIME BOX BRAZIL [HD]
+http://cdn.poptv.vip:80/daniel/daniel/7563
+#EXTINF:-1,RECORD NEWS [HD]
+http://cdn.poptv.vip:80/daniel/daniel/7499
+#EXTINF:-1,RECORD TV RJ [HD]
+http://cdn.poptv.vip:80/daniel/daniel/7359
+#EXTINF:-1,RECORD TV SP [HD]
+http://cdn.poptv.vip:80/daniel/daniel/7596
+#EXTINF:-1,RECORD TV [HD]
+http://cdn.poptv.vip:80/daniel/daniel/9217
+#EXTINF:-1,REDE TV [HD]
+http://cdn.poptv.vip:80/daniel/daniel/7573
+#EXTINF:-1,REDE VIDA [HD]
+http://cdn.poptv.vip:80/daniel/daniel/7883
+#EXTINF:-1,SBT SP [HD]
+http://cdn.poptv.vip:80/daniel/daniel/7577
+#EXTINF:-1,SBT [HD]
+http://cdn.poptv.vip:80/daniel/daniel/9209
+#EXTINF:-1,SESC TV [HD]
+http://cdn.poptv.vip:80/daniel/daniel/3172
+#EXTINF:-1,SMITHSONIAN [HD]
+http://cdn.poptv.vip:80/daniel/daniel/9362
+#EXTINF:-1,SPACE [HD]
+http://cdn.poptv.vip:80/daniel/daniel/7601
+#EXTINF:-1,SPORTV 2 [HD]
+http://cdn.poptv.vip:80/daniel/daniel/7496
+#EXTINF:-1,SPORTV 3 [HD]
+http://cdn.poptv.vip:80/daniel/daniel/7530
+#EXTINF:-1,SPORTV [HD]
+http://cdn.poptv.vip:80/daniel/daniel/7491
+#EXTINF:-1,STUDIO UNIVERSAL [HD]
+http://cdn.poptv.vip:80/daniel/daniel/7550
+#EXTINF:-1,SYFY [HD]
+http://cdn.poptv.vip:80/daniel/daniel/7533
+#EXTINF:-1,TBS [HD]
+http://cdn.poptv.vip:80/daniel/daniel/7562
+#EXTINF:-1,TCM [HD]
+http://cdn.poptv.vip:80/daniel/daniel/7544
+#EXTINF:-1,TELECINE ACTION [HD]
+http://cdn.poptv.vip:80/daniel/daniel/3315
+#EXTINF:-1,TELECINE CULT [HD]
+http://cdn.poptv.vip:80/daniel/daniel/7746
+#EXTINF:-1,TELECINE FUN [HD]
+http://cdn.poptv.vip:80/daniel/daniel/3317
+#EXTINF:-1,TELECINE PIPOCA [HD]
+http://cdn.poptv.vip:80/daniel/daniel/3318
+#EXTINF:-1,TELECINE PREMIUM [HD]
+http://cdn.poptv.vip:80/daniel/daniel/7483
+#EXTINF:-1,TELECINE TOUCH [HD]
+http://cdn.poptv.vip:80/daniel/daniel/7553
+#EXTINF:-1,TERRA VIVA [HD]
+http://cdn.poptv.vip:80/daniel/daniel/3185
+#EXTINF:-1,TLC [HD]
+http://cdn.poptv.vip:80/daniel/daniel/7559
+#EXTINF:-1,TNT SERIES [HD]
+http://cdn.poptv.vip:80/daniel/daniel/3251
+#EXTINF:-1,TNT [HD]
+http://cdn.poptv.vip:80/daniel/daniel/7479
+#EXTINF:-1,TOONCAST [HD]
+http://cdn.poptv.vip:80/daniel/daniel/7568
+#EXTINF:-1,TRAVEL BOX BRASIL [HD]
+http://cdn.poptv.vip:80/daniel/daniel/9365
+#EXTINF:-1,TRUTV [HD]
+http://cdn.poptv.vip:80/daniel/daniel/7571
+#EXTINF:-1,TV APARECIDA [HD]
+http://cdn.poptv.vip:80/daniel/daniel/3171
+#EXTINF:-1,TV ASSEMBLÉIA RS [HD]
+http://cdn.poptv.vip:80/daniel/daniel/3226
+#EXTINF:-1,TV BRASIL [HD]
+http://cdn.poptv.vip:80/daniel/daniel/9361
+#EXTINF:-1,TV CULTURA PA [HD]
+http://cdn.poptv.vip:80/daniel/daniel/7335
+#EXTINF:-1,TV CÂMARA [HD]
+http://cdn.poptv.vip:80/daniel/daniel/3190
+#EXTINF:-1,TV NOVO TEMPO [HD]
+http://cdn.poptv.vip:80/daniel/daniel/3201
+#EXTINF:-1,TV RA-TIM-BUM [HD]
+http://cdn.poptv.vip:80/daniel/daniel/7567
+#EXTINF:-1,UNIVERSAL TV [HD]
+http://cdn.poptv.vip:80/daniel/daniel/7538
+#EXTINF:-1,US BRASIL TV [HD]
+http://cdn.poptv.vip:80/daniel/daniel/7306
+#EXTINF:-1,VH1  MEGA HITS [HD]
+http://cdn.poptv.vip:80/daniel/daniel/7557
+#EXTINF:-1,VH1 [HD]
+http://cdn.poptv.vip:80/daniel/daniel/9352
+#EXTINF:-1,VIVA [HD]
+http://cdn.poptv.vip:80/daniel/daniel/7543
+#EXTINF:-1,WARNER CHANNEL [HD]
+http://cdn.poptv.vip:80/daniel/daniel/7539
+#EXTINF:-1,WOOHOO [HD]
+http://cdn.poptv.vip:80/daniel/daniel/9369
+#EXTINF:-1,REDE GOSPEL [HD]
+http://cdn.poptv.vip:80/daniel/daniel/9520
+#EXTINF:-1,BAND [HD] [DUAL]
+http://cdn.poptv.vip:80/daniel/daniel/9522
+#EXTINF:-1,REDE BRASIL [SD]
+http://cdn.poptv.vip:80/daniel/daniel/3169
+#EXTINF:-1,GLOBO EPTV CAMPINAS [H265]
+http://cdn.poptv.vip:80/daniel/daniel/7873
+#EXTINF:-1,GLOBO NACIONAL [H265]
+http://cdn.poptv.vip:80/daniel/daniel/7880
+#EXTINF:-1,GLOBO NEWS [H265]
+http://cdn.poptv.vip:80/daniel/daniel/7827
+#EXTINF:-1,GLOBO RBS TV POA [H265]
+http://cdn.poptv.vip:80/daniel/daniel/8373
+#EXTINF:-1,GLOBO RPC CURITIBA [H265]
+http://cdn.poptv.vip:80/daniel/daniel/7869
+#EXTINF:-1,GLOBO RPC PARANAENSE [H265]
+http://cdn.poptv.vip:80/daniel/daniel/8370
+#EXTINF:-1,GLOBO TV ANHANGUERA [H265]
+http://cdn.poptv.vip:80/daniel/daniel/8372
+#EXTINF:-1,GLOBO TV BAHIA [H265]
+http://cdn.poptv.vip:80/daniel/daniel/8857
+#EXTINF:-1,GLOBO TV CENTRO AMÉRICA [H265]
+http://cdn.poptv.vip:80/daniel/daniel/7878
+#EXTINF:-1,GLOBO TV LIBERAL BELÉM [H265]
+http://cdn.poptv.vip:80/daniel/daniel/7870
+#EXTINF:-1,GLOBO TV MINAS [H265]
+http://cdn.poptv.vip:80/daniel/daniel/7877
+#EXTINF:-1,GLOBO TV MIRANTE [H265]
+http://cdn.poptv.vip:80/daniel/daniel/7871
+#EXTINF:-1,GLOBO TV MORENA [H265]
+http://cdn.poptv.vip:80/daniel/daniel/7874
+#EXTINF:-1,GLOBO TV NORDESTE [H265]
+http://cdn.poptv.vip:80/daniel/daniel/7875
+#EXTINF:-1,GLOBO TV NSC FLORIANÓPOLIS [H265]
+http://cdn.poptv.vip:80/daniel/daniel/7872
+#EXTINF:-1,GLOBO TV VERDES MARES [H265]
+http://cdn.poptv.vip:80/daniel/daniel/7876
+#EXTINF:-1,A&E [H265]
+http://cdn.poptv.vip:80/daniel/daniel/7829
+#EXTINF:-1,ANIMAL PLANET [H265]
+http://cdn.poptv.vip:80/daniel/daniel/7823
+#EXTINF:-1,ARTE 1 [H265]
+http://cdn.poptv.vip:80/daniel/daniel/7847
+#EXTINF:-1,AXN [H265]
+http://cdn.poptv.vip:80/daniel/daniel/7781
+#EXTINF:-1,BABY TV [H265]
+http://cdn.poptv.vip:80/daniel/daniel/7852
+#EXTINF:-1,BAND NEWS [H265]
+http://cdn.poptv.vip:80/daniel/daniel/7773
+#EXTINF:-1,BAND SP [H265]
+http://cdn.poptv.vip:80/daniel/daniel/7835
+#EXTINF:-1,BAND SPORTS [H265]
+http://cdn.poptv.vip:80/daniel/daniel/7775
+#EXTINF:-1,BIS [H265]
+http://cdn.poptv.vip:80/daniel/daniel/7808
+#EXTINF:-1,BOOMERANG [H265]
+http://cdn.poptv.vip:80/daniel/daniel/7812
+#EXTINF:-1,CANAL BRASIL [H265]
+http://cdn.poptv.vip:80/daniel/daniel/7865
+#EXTINF:-1,CARTOON NETWORK [H265]
+http://cdn.poptv.vip:80/daniel/daniel/7784
+#EXTINF:-1,CHEF TV [H265]
+http://cdn.poptv.vip:80/daniel/daniel/7849
+#EXTINF:-1,CINEMAX [H265]
+http://cdn.poptv.vip:80/daniel/daniel/7797
+#EXTINF:-1,CNN ESPANHOL [H265]
+http://cdn.poptv.vip:80/daniel/daniel/7861
+#EXTINF:-1,CNN INTERNACIONAL [H265]
+http://cdn.poptv.vip:80/daniel/daniel/7868
+#EXTINF:-1,COMBATE [H265]
+http://cdn.poptv.vip:80/daniel/daniel/7776
+#EXTINF:-1,COMEDY CENTRAL [H265]
+http://cdn.poptv.vip:80/daniel/daniel/7826
+#EXTINF:-1,CURTA! [H265]
+http://cdn.poptv.vip:80/daniel/daniel/7844
+#EXTINF:-1,DISCOVERY CHANNEL [H265]
+http://cdn.poptv.vip:80/daniel/daniel/7780
+#EXTINF:-1,DISCOVERY H&H [H265]
+http://cdn.poptv.vip:80/daniel/daniel/7839
+#EXTINF:-1,DISCOVERY ID [H265]
+http://cdn.poptv.vip:80/daniel/daniel/7830
+#EXTINF:-1,DISCOVERY KIDS [H265]
+http://cdn.poptv.vip:80/daniel/daniel/7795
+#EXTINF:-1,DISCOVERY SCIENCE [H265]
+http://cdn.poptv.vip:80/daniel/daniel/7806
+#EXTINF:-1,DISCOVERY THEATER [H265]
+http://cdn.poptv.vip:80/daniel/daniel/7794
+#EXTINF:-1,DISCOVERY TURBO [H265]
+http://cdn.poptv.vip:80/daniel/daniel/7761
+#EXTINF:-1,DISCOVERY WORLD [H265]
+http://cdn.poptv.vip:80/daniel/daniel/7799
+#EXTINF:-1,DISNEY CHANNEL [H265]
+http://cdn.poptv.vip:80/daniel/daniel/7790
+#EXTINF:-1,DISNEY JR [H265]
+http://cdn.poptv.vip:80/daniel/daniel/7791
+#EXTINF:-1,DISNEY XD [H265]
+http://cdn.poptv.vip:80/daniel/daniel/7858
+#EXTINF:-1,E! [H265]
+http://cdn.poptv.vip:80/daniel/daniel/7803
+#EXTINF:-1,ESPN 2 [H265]
+http://cdn.poptv.vip:80/daniel/daniel/7805
+#EXTINF:-1,ESPN BRASIL [H265]
+http://cdn.poptv.vip:80/daniel/daniel/7822
+#EXTINF:-1,ESPN EXTRA [H265]
+http://cdn.poptv.vip:80/daniel/daniel/7821
+#EXTINF:-1,ESPN [H265]
+http://cdn.poptv.vip:80/daniel/daniel/7802
+#EXTINF:-1,FISH TV [H265]
+http://cdn.poptv.vip:80/daniel/daniel/7853
+#EXTINF:-1,FOOD NETWORK [H265]
+http://cdn.poptv.vip:80/daniel/daniel/7813
+#EXTINF:-1,FOX LIFE [H265]
+http://cdn.poptv.vip:80/daniel/daniel/7831
+#EXTINF:-1,FOX NEWS [H265]
+http://cdn.poptv.vip:80/daniel/daniel/7867
+#EXTINF:-1,FOX PREMIUM 1 [H265]
+http://cdn.poptv.vip:80/daniel/daniel/7864
+#EXTINF:-1,FOX PREMIUM 2 [H265]
+http://cdn.poptv.vip:80/daniel/daniel/7866
+#EXTINF:-1,FOX SPORTS 2 [H265]
+http://cdn.poptv.vip:80/daniel/daniel/7782
+#EXTINF:-1,FOX SPORTS [H265]
+http://cdn.poptv.vip:80/daniel/daniel/7779
+#EXTINF:-1,FOX [H265]
+http://cdn.poptv.vip:80/daniel/daniel/7774
+#EXTINF:-1,FX [H265]
+http://cdn.poptv.vip:80/daniel/daniel/7800
+#EXTINF:-1,GLOOB [H265]
+http://cdn.poptv.vip:80/daniel/daniel/7848
+#EXTINF:-1,GLOOBINHO [H265]
+http://cdn.poptv.vip:80/daniel/daniel/7838
+#EXTINF:-1,GNT [H265]
+http://cdn.poptv.vip:80/daniel/daniel/7843
+#EXTINF:-1,H2 [H265]
+http://cdn.poptv.vip:80/daniel/daniel/7765
+#EXTINF:-1,HBO + [H265]
+http://cdn.poptv.vip:80/daniel/daniel/7789
+#EXTINF:-1,HBO 2 [H265]
+http://cdn.poptv.vip:80/daniel/daniel/7788
+#EXTINF:-1,HBO FAMILY [H265]
+http://cdn.poptv.vip:80/daniel/daniel/7786
+#EXTINF:-1,HBO MUNDI [H265]
+http://cdn.poptv.vip:80/daniel/daniel/7793
+#EXTINF:-1,HBO POP [H265]
+http://cdn.poptv.vip:80/daniel/daniel/7828
+#EXTINF:-1,HBO SIGNATURE [H265]
+http://cdn.poptv.vip:80/daniel/daniel/7792
+#EXTINF:-1,HBO XTREME [H265]
+http://cdn.poptv.vip:80/daniel/daniel/7833
+#EXTINF:-1,HBO [H265]
+http://cdn.poptv.vip:80/daniel/daniel/7787
+#EXTINF:-1,HGTV [H265]
+http://cdn.poptv.vip:80/daniel/daniel/7807
+#EXTINF:-1,HISTORY CHANNEL [H265]
+http://cdn.poptv.vip:80/daniel/daniel/7777
+#EXTINF:-1,I-SAT [H265]
+http://cdn.poptv.vip:80/daniel/daniel/7857
+#EXTINF:-1,LIFETIME [H265]
+http://cdn.poptv.vip:80/daniel/daniel/7817
+#EXTINF:-1,MAIS GLOBOSAT [H265]
+http://cdn.poptv.vip:80/daniel/daniel/7785
+#EXTINF:-1,MEGAPIX [H265]
+http://cdn.poptv.vip:80/daniel/daniel/7798
+#EXTINF:-1,MTV [H265]
+http://cdn.poptv.vip:80/daniel/daniel/7816
+#EXTINF:-1,MULTISHOW [H265]
+http://cdn.poptv.vip:80/daniel/daniel/7804
+#EXTINF:-1,MUSIC BOX BRAZIL [H265]
+http://cdn.poptv.vip:80/daniel/daniel/7855
+#EXTINF:-1,NAT GEO KIDS [H265]
+http://cdn.poptv.vip:80/daniel/daniel/7837
+#EXTINF:-1,NAT GEO WILD [H265]
+http://cdn.poptv.vip:80/daniel/daniel/7771
+#EXTINF:-1,NATIONAL GEOGRAPHIC [H265]
+http://cdn.poptv.vip:80/daniel/daniel/7810
+#EXTINF:-1,NICK JR [H265]
+http://cdn.poptv.vip:80/daniel/daniel/7834
+#EXTINF:-1,NICKELODEON [H265]
+http://cdn.poptv.vip:80/daniel/daniel/7811
+#EXTINF:-1,OFF [H265]
+http://cdn.poptv.vip:80/daniel/daniel/7796
+#EXTINF:-1,PARAMOUNT [H265]
+http://cdn.poptv.vip:80/daniel/daniel/7818
+#EXTINF:-1,PLAY TV [H265]
+http://cdn.poptv.vip:80/daniel/daniel/7841
+#EXTINF:-1,PREMIERE 2 [H265]
+http://cdn.poptv.vip:80/daniel/daniel/8366
+#EXTINF:-1,PREMIERE 3 [H265]
+http://cdn.poptv.vip:80/daniel/daniel/8367
+#EXTINF:-1,PREMIERE 4 [H265]
+http://cdn.poptv.vip:80/daniel/daniel/8368
+#EXTINF:-1,PREMIERE 5 [H265]
+http://cdn.poptv.vip:80/daniel/daniel/8369
+#EXTINF:-1,PREMIERE 6 [H265]
+http://cdn.poptv.vip:80/daniel/daniel/7760
+#EXTINF:-1,PREMIERE 7 [H265]
+http://cdn.poptv.vip:80/daniel/daniel/7763
+#EXTINF:-1,PREMIERE CLUBES [H265]
+http://cdn.poptv.vip:80/daniel/daniel/7762
+#EXTINF:-1,PRIME BOX BRAZIL [H265]
+http://cdn.poptv.vip:80/daniel/daniel/7846
+#EXTINF:-1,RECORD NEWS [H265]
+http://cdn.poptv.vip:80/daniel/daniel/7882
+#EXTINF:-1,RECORD TV SP [H265]
+http://cdn.poptv.vip:80/daniel/daniel/7881
+#EXTINF:-1,REDE TV [H265]
+http://cdn.poptv.vip:80/daniel/daniel/7856
+#EXTINF:-1,SBT SP [H265]
+http://cdn.poptv.vip:80/daniel/daniel/7860
+#EXTINF:-1,CANAL SONY [H265]
+http://cdn.poptv.vip:80/daniel/daniel/7815
+#EXTINF:-1,SPACE [H265]
+http://cdn.poptv.vip:80/daniel/daniel/7801
+#EXTINF:-1,SPORTV 2 [H265]
+http://cdn.poptv.vip:80/daniel/daniel/7783
+#EXTINF:-1,SPORTV 3 [H265]
+http://cdn.poptv.vip:80/daniel/daniel/7809
+#EXTINF:-1,SPORTV [H265]
+http://cdn.poptv.vip:80/daniel/daniel/7778
+#EXTINF:-1,STUDIO UNIVERSAL [H265]
+http://cdn.poptv.vip:80/daniel/daniel/7832
+#EXTINF:-1,SYFY [H265]
+http://cdn.poptv.vip:80/daniel/daniel/7814
+#EXTINF:-1,TBS [H265]
+http://cdn.poptv.vip:80/daniel/daniel/7845
+#EXTINF:-1,TCM [H265]
+http://cdn.poptv.vip:80/daniel/daniel/7825
+#EXTINF:-1,TELECINE ACTION [H265]
+http://cdn.poptv.vip:80/daniel/daniel/7764
+#EXTINF:-1,TELECINE CULT [H265]
+http://cdn.poptv.vip:80/daniel/daniel/7768
+#EXTINF:-1,TELECINE FUN [H265]
+http://cdn.poptv.vip:80/daniel/daniel/7766
+#EXTINF:-1,TELECINE PIPOCA [H265]
+http://cdn.poptv.vip:80/daniel/daniel/7767
+#EXTINF:-1,TELECINE PREMIUM [H265]
+http://cdn.poptv.vip:80/daniel/daniel/7772
+#EXTINF:-1,TELECINE TOUCH [H265]
+http://cdn.poptv.vip:80/daniel/daniel/7836
+#EXTINF:-1,TLC [H265]
+http://cdn.poptv.vip:80/daniel/daniel/7842
+#EXTINF:-1,TNT SERIES [H265]
+http://cdn.poptv.vip:80/daniel/daniel/7769
+#EXTINF:-1,TNT [H265]
+http://cdn.poptv.vip:80/daniel/daniel/7770
+#EXTINF:-1,TOONCAST [H265]
+http://cdn.poptv.vip:80/daniel/daniel/7851
+#EXTINF:-1,TRUTV [H265]
+http://cdn.poptv.vip:80/daniel/daniel/7854
+#EXTINF:-1,TV RA-TIM-BUM [H265]
+http://cdn.poptv.vip:80/daniel/daniel/7850
+#EXTINF:-1,UNIVERSAL TV [H265]
+http://cdn.poptv.vip:80/daniel/daniel/7819
+#EXTINF:-1,VH1 MEGA HITS [H265]
+http://cdn.poptv.vip:80/daniel/daniel/7840
+#EXTINF:-1,VIVA [H265]
+http://cdn.poptv.vip:80/daniel/daniel/7824
+#EXTINF:-1,WARNER CHANNEL [H265]
+http://cdn.poptv.vip:80/daniel/daniel/7820
+#EXTINF:-1,24HS:  CARROSSEL ANIMADO
+http://cdn.poptv.vip:80/daniel/daniel/8272
+#EXTINF:-1,24HS: A PANTERA COR DE ROSA
+http://cdn.poptv.vip:80/daniel/daniel/7226
+#EXTINF:-1,24HS: A PEQUENA SEREIA
+http://cdn.poptv.vip:80/daniel/daniel/7228
+#EXTINF:-1,24HS: A TURMA DO PATETA
+http://cdn.poptv.vip:80/daniel/daniel/7217
+#EXTINF:-1,24HS: ALLADIN
+http://cdn.poptv.vip:80/daniel/daniel/7218
+#EXTINF:-1,24HS: AS AVENTURAS DE JACKIE CHAN
+http://cdn.poptv.vip:80/daniel/daniel/7313
+#EXTINF:-1,24HS: AS MENINAS SUPERPODEROSAS
+http://cdn.poptv.vip:80/daniel/daniel/7227
+#EXTINF:-1,24HS: BABY LOONEY TUNES
+http://cdn.poptv.vip:80/daniel/daniel/8271
+#EXTINF:-1,24HS: BEN 10 - SUPREMACIA ALIENIGENA
+http://cdn.poptv.vip:80/daniel/daniel/7371
+#EXTINF:-1,24HS: BOB O TREM
+http://cdn.poptv.vip:80/daniel/daniel/7204
+#EXTINF:-1,24HS: BOB ZOOM
+http://cdn.poptv.vip:80/daniel/daniel/7308
+#EXTINF:-1,24HS: CASTELO RATIMBUM
+http://cdn.poptv.vip:80/daniel/daniel/8273
+#EXTINF:-1,24HS: CAVALEIROS DO ZODÍACO
+http://cdn.poptv.vip:80/daniel/daniel/8324
+#EXTINF:-1,24HS: CINE MARVEL
+http://cdn.poptv.vip:80/daniel/daniel/7748
+#EXTINF:-1,24HS: CORRIDA MALUCA
+http://cdn.poptv.vip:80/daniel/daniel/7209
+#EXTINF:-1,24HS: FUNK
+http://cdn.poptv.vip:80/daniel/daniel/7206
+#EXTINF:-1,24HS: GOSPEL
+http://cdn.poptv.vip:80/daniel/daniel/7210
+#EXTINF:-1,24HS: GOSPEL KIDS
+http://cdn.poptv.vip:80/daniel/daniel/7208
+#EXTINF:-1,24HS: JIRAIYA
+http://cdn.poptv.vip:80/daniel/daniel/8274
+#EXTINF:-1,24HS: JOHNNY BRAVO
+http://cdn.poptv.vip:80/daniel/daniel/7310
+#EXTINF:-1,24HS: KIDS
+http://cdn.poptv.vip:80/daniel/daniel/7419
+#EXTINF:-1,24HS: KND - A TURMA DO BAIRRO
+http://cdn.poptv.vip:80/daniel/daniel/7338
+#EXTINF:-1,24HS: LULUZINHA
+http://cdn.poptv.vip:80/daniel/daniel/7316
+#EXTINF:-1,24HS: MASHA E O URSO
+http://cdn.poptv.vip:80/daniel/daniel/7203
+#EXTINF:-1,24HS: MISTER MAGOO
+http://cdn.poptv.vip:80/daniel/daniel/7311
+#EXTINF:-1,24HS: MR BEAN ANIMADO
+http://cdn.poptv.vip:80/daniel/daniel/7315
+#EXTINF:-1,24HS: OS FLINSTONES
+http://cdn.poptv.vip:80/daniel/daniel/8319
+#EXTINF:-1,24HS: OS JETSONS
+http://cdn.poptv.vip:80/daniel/daniel/8323
+#EXTINF:-1,24HS: PAGODE
+http://cdn.poptv.vip:80/daniel/daniel/7888
+#EXTINF:-1,24HS: PEPPA PIG
+http://cdn.poptv.vip:80/daniel/daniel/7025
+#EXTINF:-1,24HS: PICA-PAU
+http://cdn.poptv.vip:80/daniel/daniel/8325
+#EXTINF:-1,24HS: PJ MASKS
+http://cdn.poptv.vip:80/daniel/daniel/7207
+#EXTINF:-1,24HS: POPEYE
+http://cdn.poptv.vip:80/daniel/daniel/8320
+#EXTINF:-1,24HS: ROCK IN RIO 2019
+http://cdn.poptv.vip:80/daniel/daniel/8322
+#EXTINF:-1,24HS: SERTANEJO
+http://cdn.poptv.vip:80/daniel/daniel/7201
+#EXTINF:-1,24HS: SUPER CHOQUE
+http://cdn.poptv.vip:80/daniel/daniel/7314
+#EXTINF:-1,24HS: THUNDERCATS
+http://cdn.poptv.vip:80/daniel/daniel/7309
+#EXTINF:-1,24HS: TIO PATINHAS
+http://cdn.poptv.vip:80/daniel/daniel/8321
+#EXTINF:-1,24HS: TOM & JERRY
+http://cdn.poptv.vip:80/daniel/daniel/7307
+#EXTINF:-1,24HS: X-MEN EVOLUTION
+http://cdn.poptv.vip:80/daniel/daniel/7161
